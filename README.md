@@ -23,7 +23,7 @@
 | Projet         | Description                                                     | Stack principale         |
 |----------------|-----------------------------------------------------------------|---------------------------|
 | **Lootopia**   | Application de chasse au trésor en RA & géoloc                  | Next.js, Hono             |
-| **Site photo** | Portfolio d’un photographe avec interface admin et CI/CD        | Next.js, Spring Boot      |
+| **Site photo** | Portfolio d’un photographe avec interface admin et CI/CD        | Next.js, Hono      |
 
 ---
 
